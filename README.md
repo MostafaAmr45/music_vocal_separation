@@ -37,13 +37,13 @@ and the plot of their waveforms.
 ## Output samples plots
 
 ### 1. Million Years Ago
-![Figure1](Adele_Million_Years_Ago_Plot.png)
+![Figure1](plots/Adele_Million_Years_Ago_Plot.png)
 
 ### 2. Strange Birds
-![Figure2](Birdy_strange_birds_Plot.png)
+![Figure2](plots/Birdy_strange_birds_Plot.png)
 
 ### 3. All Of Me
-![Figure3](John%20Legend_%20All_Of_Me_Plot.png)
+![Figure3](plots/John%20Legend_%20All_Of_Me_Plot.png)
 
 
 
